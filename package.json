@@ -1,0 +1,22 @@
+{
+    "name": "vscode-java-lite-pack",
+    "displayName": "VSCode Java Lite Pack",
+    "description": "Java Lite开发包",
+    "publisher": "anaer",
+    "version": "0.0.1",
+    "icon": "icon.png",
+    "repository": {
+        "url": "https://github.com/anaer/vscode-java-lite-pack.git"
+    },
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "anaer.eyeshield",
+        "redhat.java",
+        "vscodevim.vim"
+    ]
+}
