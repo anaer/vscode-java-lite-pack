@@ -4,5 +4,6 @@
 
 主题: anaer.eyeshield
 语法: redhat.java
+调试: vscjava.vscode-java-debug
 编辑: vscodevim.vim
 Git 用户配置: anaer.git-user-profiles-config
