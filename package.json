@@ -3,7 +3,7 @@
     "displayName": "VSCode Java Lite Pack",
     "description": "Java Lite开发包",
     "publisher": "anaer",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "icon": "icon.png",
     "repository": {
         "url": "https://github.com/anaer/vscode-java-lite-pack.git"
@@ -17,7 +17,7 @@
     "extensionPack": [
         "anaer.eyeshield",
         "redhat.java",
-        "vscodevim.vim",
+        "asvetliakov.vscode-neovim",
         "anaer.git-user-profiles-config",
         "vscjava.vscode-java-debug"
     ]
