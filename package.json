@@ -1,9 +1,9 @@
 {
-    "name": "vscode-java-lite-pack",
-    "displayName": "VSCode Java Lite Pack",
-    "description": "Java Lite开发包",
+    "name": "vscode-tea-lite-pack",
+    "displayName": "VSCode Tea Lite Pack",
+    "description": "Tea Lite开发包",
     "publisher": "anaer",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "icon": "icon.png",
     "repository": {
         "url": "https://github.com/anaer/vscode-java-lite-pack.git"

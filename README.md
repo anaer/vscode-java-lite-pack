@@ -9,3 +9,5 @@
 编辑: asvetliakov.vscode-neovim
 Git 用户配置: anaer.git-user-profiles-config
 ```
+
+[图标](https://www.iconfinder.com/icons/5079026/beverage_break_coffee_cup_drink_of_tea_icon)
