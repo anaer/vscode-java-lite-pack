@@ -3,7 +3,7 @@
     "displayName": "VSCode Tea Lite Pack",
     "description": "Tea Lite开发包",
     "publisher": "anaer",
-    "version": "0.0.6",
+    "version": "24.612.1611",
     "icon": "icon.png",
     "repository": {
         "url": "https://github.com/anaer/vscode-java-lite-pack.git"
@@ -15,10 +15,8 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "anaer.eyeshield",
+        "anaer.vscode-base-pack",
         "redhat.java",
-        "anaer.git-user-profiles-config",
-        "vscjava.vscode-java-debug",
-        "vscodevim.vim"
+        "vscjava.vscode-java-debug"
     ]
 }
